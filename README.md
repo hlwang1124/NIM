@@ -1,2 +1,2 @@
-# NIM
-Normal Inference Module in Pytorch, IROS 2020
+# Normal Inference Module
+The code will be released soon.
