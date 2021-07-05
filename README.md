@@ -12,9 +12,12 @@ Run `demo.py`, and then the surface normal estimation will be saved in `examples
 If you use this code for your research, please cite our paper.
 ```
 @inproceedings{wang2020applying,
-  author={Wang, Hengli and Fan, Rui and Sun, Yuxiang and Liu, Ming},
-  title={Applying Surface Normal Information in Drivable Area and Road Anomaly Detection for Ground Mobile Robots},
-  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  year={2020}
+  title        = {Applying surface normal information in drivable area and road anomaly detection for ground mobile robots},
+  author       = {Wang, Hengli and Fan, Rui and Sun, Yuxiang and Liu, Ming},
+  booktitle    = {2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages        = {2706--2711},
+  year         = {2020},
+  organization = {IEEE},
+  doi          = {10.1109/IROS45743.2020.9341340}
 }
 ```
